@@ -1,6 +1,6 @@
 # Machine Learning Notebooks
 
-Welcome! This repository contains Jupyter notebooks and learning materials from different machine learning courses I've taken. Each folder is labeled to indicate the course:
+This repository contains Jupyter notebooks and learning materials from different machine learning courses I've taken. Each folder is labeled to indicate the course:
 
 **1-** : *Machine Learning for NLP* (Teacher: Christopher Kermorant)  
    - Covers classification tasks, word embeddings, and foundational NLP techniques.
